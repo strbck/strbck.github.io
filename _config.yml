@@ -1,7 +1,7 @@
-title: 'strbckr.github.io'
+title: 'strbck.github.io'
 description: "Carter Richard's personal Github pages website."
 baseurl:
-url: "https://strbckr.github.io"
+url: "https://strbck.github.io"
 
 header_pages:
   - index.md
