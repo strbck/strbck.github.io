@@ -19,7 +19,7 @@ One of the neat things we've just started is developing some *very* simple HTML/
 
 These applets are designed around single tasks, and meant to be a minimal way of cataloguing data or enhancing productivity. For example, we've added a minimal job application tracker that records applications you've sent and displays them in a Sankey visualization.
 
-![Job Application Tracker](/assets/images/jobapptrackerhtml.png){:width="100%"}
+![Job Application Tracker](/assets/images/jobapptrackerhtml.jpg){:width="100%"}
 
 It's a really neat way of prototyping ideas with AI; the applets are simple enough that we can iterate quickly, and I become more of a QA tester than the actual developer. In just a few hours we can usually have a working viable prototype.
 
