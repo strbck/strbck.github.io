@@ -31,7 +31,7 @@ Some other applets that are coming down the pipeline:
 - Loan/mortgage explorer
 - Whatever else we dream up
 
-  
+/
 I remember when AI was really taking off how people use to talk about this as a future possibility -- that it'd be so simple to stand up simple apps. It's exciting to see that's now reality, and I think it could really change the mobile/web application space in the future.
 
 In the meantime, we'll keep dreaming of ideas and (excitedly) trying them out.
