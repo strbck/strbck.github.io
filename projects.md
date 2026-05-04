@@ -10,4 +10,6 @@ permalink: /projects/
 
 [Vex Mythoclast: Containerization for Survival Analysis in R](/vex) was a project to reverse-engineer and model the drop rate for an exceptionally rare in-game item in the Destiny 2 videogame. The analysis employed Docker and R to scrape and analyze extracted API data in parallel. This write-up was published to Reddit r/DestinyTheGame and received [over 3.2K upvotes and 40+ awards](https://web.archive.org/web/20221229001020/https://www.reddit.com/r/DestinyTheGame/comments/pw20ul/the_definitive_vex_mythoclast_analysis_examining/).
 
+[simple-html](/apps) is a growing collection of single-purpose, dependency-free HTML/JS applets — things like a job application tracker with a Sankey visualization and a Pomodoro timer. Each applet is self-contained and runs directly in your browser. Built iteratively with Claude as a prototyping partner.
+
 [strbck.github.io](https://strbckr.github.io/) is the website you're currently browsing. This site is hosted on GitHub Pages and served using Jekyll. The theme for this site was originally designed by [b2a3e8](https://github.com/b2a3e8). This site serves as a personal blog and portfolio for various web development, homelab, and analytics projects.
