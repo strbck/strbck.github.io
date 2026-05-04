@@ -1,0 +1,11 @@
+# Metadata for apps in the simple-html submodule.
+# Any .html file in apps/ will be auto-listed even without an entry here.
+# Add entries to give apps a nicer title and description.
+
+- file: jobapptracker.html
+  title: Job App Tracker
+  desc: Track job applications through the pipeline with Sankey flow visualization.
+
+- file: pomodoro.html
+  title: Pomodoro Timer
+  desc: Focus timer with session tracking, configurable intervals, and audio chimes.
